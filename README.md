@@ -1,2 +1,3 @@
-# test_repository
-just testing git pushes from raspberry pi
+add this new line
+now this
+ok i see how this works
